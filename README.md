@@ -9,6 +9,7 @@ Hi 👋 My name is Yash Mishra
 *   🌍  I'm based in Ahmedabad, Gujarat, India
 *   ✉️  You can contact me at [yashmishra.vapi@gmail.com](mailto:yashmishra.vapi@gmail.com)
 *   🤝  I'm open to collaborating on MERN Projects
+*   👨‍💻  [Portfolio](https://portfolio-ruby-gamma-16.vercel.app/)
 
 ### Skills
 
