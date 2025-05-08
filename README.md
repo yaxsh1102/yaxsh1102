@@ -1,4 +1,4 @@
-Hi 👋 My name is Yash Mishra
+Hi 👋 \I am Yash Mishra
 ============================
 
 **Full Stack Developer**
